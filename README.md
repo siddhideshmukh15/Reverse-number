@@ -76,4 +76,4 @@ and reverses its digits.
 
 ## Author
 
-**Siddhi Deshmukh**
+Siddhi Deshmukh
